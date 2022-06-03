@@ -1,0 +1,25 @@
+.login{
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid #000000;
+    align-items: center;
+    padding: 20px 0px;
+    border-radius: 20px;
+}
+.login2{
+    margin-left: 100px;
+    padding: 20px 0px;
+}
+.login2 input{
+    width: 200px;
+    margin-bottom: 20px;
+}
+.login2 button{
+    margin-left: 54px;
+    padding: 8px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightyellow;
+    border: yellowgreen 2px solid  ;
+}

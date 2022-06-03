@@ -1,0 +1,9 @@
+#payment{
+    
+    margin: auto;
+    width: 50%;
+    margin-top: 10px;
+}
+#payment>div{
+    margin: 10px;
+}

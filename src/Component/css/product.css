@@ -1,0 +1,24 @@
+#product_info {
+    display: flex;
+    border-style: ridge;
+    border: 1px black;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    width: 70%;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#product_info>div {
+    cursor: pointer;
+    border-style: ridge;
+    border: 1px black;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    margin: 8px;
+    border-radius: 15px;
+}
+
+#TDPA {
+    padding: 20px;
+}

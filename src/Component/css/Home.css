@@ -1,0 +1,58 @@
+/* //this is  for the main container */
+#container{
+    
+    /* border: 1px solid black; */
+
+   
+    width: 97%;
+    margin: auto;
+    margin-top: 10px;
+    padding: 12px;
+}
+#container>div{
+    /* border: 1px dotted black; */
+    border-radius: 15px;
+}
+/* this is for the display the product  */
+#show_product{
+    /* border: 1px solid black; */
+    display: grid;
+    grid-template-columns: repeat(3,33%);
+}
+#show_product>div{
+    border-style: ridge;
+    border: 1px  black;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    padding:10px;
+    margin: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+img{
+    width: 70%;
+    padding: 20px;
+}
+#catogery{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid blue;
+    margin-top: 10px;
+    padding: 10px 0px;
+    background-color: #4B7BE5;
+}
+#catogery>div{
+    cursor: pointer;
+}
+/* button{
+    cursor: pointer;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 5px;
+} */
+/* //This is for the pagination */
+#paginate{
+    /* border: 1px solid black; */
+    margin-bottom: 5px;
+    width: 28%;
+    margin: auto;
+}

@@ -1,0 +1,38 @@
+#check_container{
+    border-style: ridge;
+    border: 1px  black;
+    display: grid;
+    width: 41%;
+    grid-template-columns: 65% 35%;
+    margin: auto;
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    
+}
+#check_container>div{
+    border-style: ridge;
+    border: 1px  black;
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+div>h2{
+   text-align: center;
+}
+/* This is for the another div in total amount */
+
+.total_pay>div{
+    display: flex;
+    justify-content: space-around;
+
+}
+.total_pay>h3{
+    /* border: 1px solid black; */
+    padding: 12px;
+    margin-left: 45px;
+}
+/* h4{
+    border: 1px solid black;
+} */

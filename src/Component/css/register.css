@@ -1,0 +1,25 @@
+.register_cover{
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid #000000;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+.register2{
+     margin-left: 75px;
+     padding: 20px 20px;
+}
+.register2 input{
+    margin-bottom: 20px;
+    width: 200px;
+    padding: 5px 0px;
+}
+.register2 button{
+    margin-left: 20px;
+        padding: 8px 20px;
+        font-size: 20px;
+        font-weight: bold;
+        background-color: lightyellow;
+        border: yellowgreen 2px solid;
+}

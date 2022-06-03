@@ -1,0 +1,25 @@
+#navbar{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    justify-content: space-around;
+    padding: 10px 0px;
+    background-color: #B3E8E5;
+}
+div>#shop{
+    border: 4px solid black;
+}
+.link2{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+.navbarLink{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: #82DBD8;
+}
+.navbarLink:hover{
+    background-color: #3BACB6;
+}
